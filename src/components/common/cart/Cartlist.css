@@ -3,7 +3,7 @@
     max-width: 800px;
     margin: auto;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: blue;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
@@ -21,7 +21,7 @@
   }
   
   .cart-items-container {
-    background-color: #f9f9f9;
+    background-color: blue;
     border-radius: 8px;
     padding: 16px;
   }
@@ -31,7 +31,7 @@
   }
   
   .cart-summary {
-    background-color: #f1f1f1;
+    background-color: blue;
     padding: 16px;
     border-radius: 8px;
     margin-top: 10px;

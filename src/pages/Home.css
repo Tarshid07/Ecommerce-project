@@ -8,9 +8,10 @@
     font-size: 1.875rem; /* Equivalent to text-3xl */
     font-weight: bold;
     margin-bottom: 0.5rem;
+    color: blue;
   }
   
   .home-subtitle {
-    color: #4b5563; /* Equivalent to text-gray-600 */
+    color: blue; /* Equivalent to text-gray-600 */
   }
   
